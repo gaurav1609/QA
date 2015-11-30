@@ -1,0 +1,21 @@
+//	date = new Date();
+	//		String starttime = dateFormat.format(date);
+		//	Date d1 = format.parse(starttime);
+		//	System.out.println(starttime);
+		
+		
+		//	wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("Continue Managing App")));
+			
+		//	driver.findElement(By.id("MainContent_lnkGoToDashBoard")).click();
+			/*date = new Date();
+			String endtime = dateFormat.format(date);
+			Date d2 = format.parse(endtime);
+			System.out.println(endtime);
+			long diff = d2.getTime() - d1.getTime();
+			long diffSeconds = diff / 1000;
+			System.out.println(diffSeconds);
+			Thread.sleep(3000);*/
+	//		writeResult(i, starttime, endtime, diffSeconds);
+			
+		//	driver.navigate().to("http://crescmsqaus.azurewebsites.net/XMP/XMLManagement.aspx?ProjectId="+app_id);
+	  

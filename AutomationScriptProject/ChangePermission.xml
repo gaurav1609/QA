@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Selenium Grid with webdriver" >
+<test name="Selenium Grid Demo">
+	<parameter name="browser" value="firefox" />
+<classes>
+		<!-- <class name="cresc.SocialLogin" /> -->
+		<class name="cresc1.ChangePermission"/>
+
+</classes>
+</test>
+</suite>

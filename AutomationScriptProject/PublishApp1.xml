@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Create App Automation" >
+<test name="Create-App">
+	<parameter name="browser" value="firefox" />
+<classes>
+		<class name="cresc1.PublishApp1"/>
+
+</classes>
+</test>
+</suite>

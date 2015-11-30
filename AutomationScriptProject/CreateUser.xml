@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Selenium Grid with webdriver" parallel="methods"
+	thread-count="2">
+
+	<test name="Editing Channel Screen">
+		<parameter name="environment" value="prod" />
+		<parameter name="filename" value="C://Users//Gaurav//Desktop//Bullis Student Roster.xlsx" />
+		<classes>
+
+			<class name="cresc1.CreateUser" />
+		</classes>
+	</test>
+
+</suite>

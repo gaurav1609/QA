@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Selenium Grid with webdriver" parallel="methods"
+	thread-count="2">
+
+	<test name="Editing Channel Screen">
+		<parameter name="environment" value="QA" />
+		<classes>
+
+<class name="cresc1.EditChannel"/>
+		</classes>
+	</test>
+
+</suite>
